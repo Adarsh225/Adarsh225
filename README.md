@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Adarsh225
+- 👋 Hi, I’m Adarsh Nandigama
 - 👀 I’m interested in ...Data Science, Machine learning and AI
 - 🌱 I’m currently learning ...Data Science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Machine Learning and Deep Learning projects
 - 📫 How to reach me ...nandigamaadarsh225@gmail.com
 
 <!---
